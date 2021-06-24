@@ -1,0 +1,4 @@
+{
+    "exec": "node src/LuxuryList.js --development",
+    "ext": "*"
+}
